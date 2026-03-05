@@ -40,6 +40,7 @@ const TRANSLATIONS = {
         "t1": "VIP Table", "t2": "🎂 Birthday", "t3": "🎉 Bachelor Party", "t4": "💼 Corporate VIP", "t5": "🎫 Standard Entry",
         "l-msg": "Requests", "ph-msg": "Bottle preferences, special celebrations, etc...",
         "wa-btn": "Book via WhatsApp", "form-note": "Your table is waiting. Click to finalize on WhatsApp.",
+        "loc-ey": "📍 Location", "loc-h": "WHERE TO <span class='neon-text'>FIND US</span>", "loc-btn": "Open in Google Maps",
         "footer-copy": "© 2026 Havana Dancing & Night Club · Tangier · THE BEST IN TOWN"
     },
     fr: {
@@ -83,6 +84,7 @@ const TRANSLATIONS = {
         "t1": "Table VIP", "t2": "🎂 Anniversaire", "t3": "🎉 EVJF / EVG", "t4": "💼 Corporate VIP", "t5": "🎫 Entrée Standard",
         "l-msg": "Demandes", "ph-msg": "Préférences bouteilles, célébrations spéciales...",
         "wa-btn": "Réserver via WhatsApp", "form-note": "Votre table vous attend. Cliquez pour finaliser sur WhatsApp.",
+        "loc-ey": "📍 Localisation", "loc-h": "OÙ NOUS <span class='neon-text'>TROUVER</span>", "loc-btn": "Ouvrir dans Google Maps",
         "footer-copy": "© 2026 Havana Dancing & Night Club · Tanger · THE BEST IN TOWN"
     },
     es: {
@@ -126,6 +128,7 @@ const TRANSLATIONS = {
         "t1": "Mesa VIP", "t2": "🎂 Cumpleaños", "t3": "🎉 Despedida", "t4": "💼 Corporativo VIP", "t5": "🎫 Entrada Estándar",
         "l-msg": "Peticiones", "ph-msg": "Preferencias botella, celebraciones especiales...",
         "wa-btn": "Reservar por WhatsApp", "form-note": "Tu mesa te espera. Haz clic para finalizar en WhatsApp.",
+        "loc-ey": "📍 Ubicación", "loc-h": "DÓNDE <span class='neon-text'>ENCONTRARNOS</span>", "loc-btn": "Abrir en Google Maps",
         "footer-copy": "© 2026 Havana Dancing & Night Club · Tánger · THE BEST IN TOWN"
     },
     ar: {
@@ -169,6 +172,7 @@ const TRANSLATIONS = {
         "t1": "طاولة VIP", "t2": "🎂 عيد ميلاد", "t3": "🎉 حفلة خاصة", "t4": "💼 فعالية مؤسسية", "t5": "🎫 دخول عادي",
         "l-msg": "الطلبات", "ph-msg": "نوع الزجاجة، احتفالات خاصة، إلخ...",
         "wa-btn": "احجز عبر واتساب", "form-note": "طاولتك في انتظارك. اضغط للتأكيد عبر واتساب.",
+        "loc-ey": "📍 الموقع", "loc-h": "كيف <span class='neon-text'>تجدنا</span>", "loc-btn": "افتح في خرائط جوجل",
         "footer-copy": "© 2026 هافانا دانسينغ آند نايت كلوب · طنجة · الأفضل في المدينة"
     }
 };
